@@ -5,5 +5,5 @@ Aspiring **UI/UX Designer** & **Front-End Developer** focused on creating intuit
 ### 🌱 Learning
 `HTML` • `CSS` • `JavaScript` • `Figma` • `Java` • `C#` • `SQL`
 
-### 🎯 Goal
+### ⭐ Goal
 Design and build accessible websites that solve real-world problems.
