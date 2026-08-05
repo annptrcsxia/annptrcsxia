@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hi there.
-
 Aspiring **UI/UX Designer** & **Front-End Developer** focused on creating intuitive, user-friendly digital experiences.
 
 ### Learning
