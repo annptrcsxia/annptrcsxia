@@ -6,6 +6,3 @@
 
 ### Learning
 `HTML` • `CSS` • `JavaScript` • `Figma` • `Java` • `C#` • `SQL`
-
-### Goal
-Design and build accessible, user-centered websites that solve real-world problems.
