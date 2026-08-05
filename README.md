@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Currently a student of STI College
+💻 Major in Computer Science and Technology.
+
 Aspiring **UI/UX Designer** & **Front-End Developer** focused on creating intuitive, user-friendly digital experiences.
 
 ### 🌱 Learning
