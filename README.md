@@ -5,4 +5,4 @@
 ✒️ Aspiring **UI/UX Designer** & **Front-End Developer** focused on building intuitive, user-friendly digital experiences.
 
 ### Currently Learning:
-`HTML` • `CSS` • `JavaScript` • `Figma` • `Java` • `C#` • `SQL`
+HTML / CSS / JavaScript / Figma / Java / C# / SQL
